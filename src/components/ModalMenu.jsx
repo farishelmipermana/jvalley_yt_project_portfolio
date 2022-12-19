@@ -25,7 +25,7 @@ export default function ModalMenu() {
             Contact
           </a>
 
-          <a href={"https://linkedin.com/farishelmi23"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
+          <a href={"https://www.linkedin.com/in/farishelmi23/"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
             linkedin
           </a>
 
