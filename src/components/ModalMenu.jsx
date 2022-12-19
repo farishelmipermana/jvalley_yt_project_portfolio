@@ -21,15 +21,15 @@ export default function ModalMenu() {
             Skill
           </Link>
 
-          <a href={"tel:+6281213655573"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
+          <a href={"tel:+6282116735990"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
             Contact
           </a>
 
-          <a href={"https://linkedin.com/fadliselaz"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
+          <a href={"https://linkedin.com/farishelmi23"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
             linkedin
           </a>
 
-          <a href={"https://github.com/fadliselaz"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
+          <a href={"https://github.com/farishelmipermana"} target="_blank" className="w-full h-16 flex justify-center items-center text-teal-400 font-bold" onClick={handleShowModal}>
             github
           </a>
 

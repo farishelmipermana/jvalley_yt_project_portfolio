@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="text-[36px] font-light">Hello...</h1>
 
       <div className="my-8 relative flex flex-col items-center">
-        <div className="bg-[url(https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1600)] w-[500px] h-[500px] rounded-full bg-cover bg-center"></div>
+        <div className="bg-[url(https://foto-faris-terbaru.vercel.app/foto-terbaru-faris.png)] w-[500px] h-[500px] rounded-full bg-cover bg-center"></div>
 
         <div className="border-teal-400 border-[6px] rounded-full w-[530px] h-[530px] absolute -top-[15px]"></div>
       </div>
